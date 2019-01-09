@@ -1,16 +1,18 @@
-# Pixel Art Maker Project
+# Project title
 
-## Table of Contents
+Pixel Art Maker
 
-* [Instructions](#instructions)
-* [Contributing](#contributing)
+## Introduction
 
-## Instructions
+This project was part of the Udacity Introduction to Programming Nanodegree.
 
-To get started, open `designs.js` and start building out the app's functionality.
+This is simple application that creates a grid of pixels, you can choose any color you want
+and then take a screenshot of your creation. :)
 
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
+# Dependencies
 
-## Contributing
+Fonts by [google](https://fonts.google.com/)
 
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
+# Acknowledgements
+
+I wish to thank the guys at the Udacity study group (www.udacity.com), as well as all the other people who created this application in the past.
